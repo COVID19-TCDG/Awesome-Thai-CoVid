@@ -1,5 +1,5 @@
 # Awesome-Thai-CoVid
-A curated list for Thais against COVID-19
+A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/groups/192150165377624)
 
 ## Application
  - [Covid Bot](https://m.me/covid19bot) - Facebook chatbot for citizen to assert risk.
