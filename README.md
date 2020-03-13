@@ -1,8 +1,16 @@
 # Awesome-Thai-CoVid
+A curated list for Thais against COVID-19
+
+## Application
+ - [Covid Bot](https://m.me/covid19bot) - Facebook chatbot for citizen to asset risk.
+ 
+### Need more information
+ - <https://www.bangkokpost.com/business/1877654/ministry-unveils-new-quarantine-app> - cannot find in app store
 
 ## Data
 ### Regional Dashbaord
  - [th-stat](http://th-stat.com/) - Comprehensive stats for active cases **Recommend**
+ - [covid tracker](https://covidtracker.5lab.co/) - ground all COVID news with map
 
 ### Hospital
  - [Hospital/Lab For Testing](https://droidsans.com/18-hospital-free-covid-19-test-nostra-maps-location/?fbclid=IwAR2xLo6IGTPFDXLXfIc76dt1cdVogfG2h2ShLXPDih-b-_Z2eBqvLQxgy7U) - A list of hosipital for testing only for those in center metro area
