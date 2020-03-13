@@ -2,7 +2,7 @@
 
 ## Data
 ### Regional Dashbaord
- - [th-stat](http://th-stat.com/) - Comprehensive stats for active actions **Recommend**
+ - [th-stat](http://th-stat.com/) - Comprehensive stats for active cases **Recommend**
 
 ### Hospital
  - [Hospital/Lab For Testing](https://droidsans.com/18-hospital-free-covid-19-test-nostra-maps-location/?fbclid=IwAR2xLo6IGTPFDXLXfIc76dt1cdVogfG2h2ShLXPDih-b-_Z2eBqvLQxgy7U) - A list of hosipital for testing only for those in center metro area
@@ -17,3 +17,9 @@
 ### Official 
  - [PeeNoi Whereabout](https://www.facebook.com/insideudon/posts/2676364612490379) - Thai DDC hold data of Thai labours from korea.
 
+## Global
+ - <https://nextstrain.org/ncov> - Realtime mutation
+ - <https://www.worldometers.info/coronavirus/> - Dashbaord
+ - <https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0> - China Regional
+ 
+ 
