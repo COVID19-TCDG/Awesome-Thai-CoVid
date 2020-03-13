@@ -17,6 +17,9 @@ A curated list for Thais against COVID-19
 ### Crowdsourcing
  - [Where to buy Mask](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - a crowdsourcing map to search for mask. 
 
+### Documentation
+ - [Phase II](https://drive.google.com/file/d/1FfaJACEDZXdO9yCSQa4qqKoE-I2Yuvbg/view?fbclid=IwAR09us3yzZM0og9_fWnsiTwFkHnqjIHgSZJO_LaJQ1VmKkxwqLlu8ky7cYI) - Overview of tools
+
 ## Unstructure Data
 ### Official
  - <https://ddc.moph.go.th/viralpneumonia/> 
@@ -24,6 +27,7 @@ A curated list for Thais against COVID-19
 ## Semi-Closed Data
 ### Official 
  - [PeeNoi Whereabout](https://www.facebook.com/insideudon/posts/2676364612490379) - Thai DDC hold data of Thai labours from korea.
+ 
 
 ## Global
  - <https://nextstrain.org/ncov> - Realtime mutation
