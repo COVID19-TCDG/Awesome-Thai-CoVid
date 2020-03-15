@@ -22,9 +22,6 @@ https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
 ### Crowdsourcing
  - [Where to buy Mask](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - a crowdsourcing map to search for mask. 
 
-### Documentation
- - [Phase II and Phase III](https://drive.google.com/file/d/1FfaJACEDZXdO9yCSQa4qqKoE-I2Yuvbg/view?fbclid=IwAR09us3yzZM0og9_fWnsiTwFkHnqjIHgSZJO_LaJQ1VmKkxwqLlu8ky7cYI) - Overview of tools
- - [Covid-19 Models and Tests](https://docs.google.com/presentation/d/11wHl_j0zenQj8lI4mGFcM15C0VmE8xrFnvhZKaAe10M/mobilepresent?slide=id.g813ffb90bc_7_4&fbclid=IwAR21MNfVZnaG6woOAuGdzJGxgSFZUoQQbNipqoRtIZmqAiz-VAzJuaJi59s) - overview of test methood and their comparison
 
 ## Unstructure Data
 ### Official
@@ -51,4 +48,8 @@ https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
  
 ### Nation
  - [Network Graph Visualization](https://co.vid19.sg/cases?fbclid=IwAR1xuNgJJ1XqLAp-8MdHODE-mydUFrMq3mD8QVPitdUJlALJwoSqiISO518) - a graph data for cases and their locations relationship
- 
+
+## Resources
+### Documentation
+ - [Phase II and Phase III Plan](https://drive.google.com/file/d/1FfaJACEDZXdO9yCSQa4qqKoE-I2Yuvbg/view?fbclid=IwAR09us3yzZM0og9_fWnsiTwFkHnqjIHgSZJO_LaJQ1VmKkxwqLlu8ky7cYI) - Overview of tools
+ - [Covid-19 Models and Tests](https://docs.google.com/presentation/d/11wHl_j0zenQj8lI4mGFcM15C0VmE8xrFnvhZKaAe10M/mobilepresent?slide=id.g813ffb90bc_7_4&fbclid=IwAR21MNfVZnaG6woOAuGdzJGxgSFZUoQQbNipqoRtIZmqAiz-VAzJuaJi59s) - overview of test methood and their comparison
