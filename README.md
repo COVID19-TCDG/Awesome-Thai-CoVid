@@ -26,7 +26,7 @@ https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
 ## Unstructure Data
 ### Official
  - <https://ddc.moph.go.th/viralpneumonia/> 
- - <http://www.boe.moph.go.th/boedb/surdata/disease.php?ds=31&fbclid=IwAR0AljVc2RHwzZVaV-OlXnh3HoGcGM1ScRtYXvPBr4ljvi6uaegOmYY12Co>
+ - <http://www.boe.moph.go.th/boedb/surdata/disease.php?ds=31>
  
 ## Semi-Closed Data
 ### Official 
@@ -39,7 +39,7 @@ https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
  - [DriveThru by Ramkhamhaeng](https://www.ram-hosp.co.th/news_detail/499) - a 5-min test, costs 6500 Baht per test
  
 ## Hardwares
- - [UV Care](https://www.bangkokbiznews.com/pr/detail/51946?fbclid=IwAR2qy95IITYd67bU1-Q2FJCplj37myYn5PJ8REFMck7IliRgL-V744WzjdA) - devices to kill virus in 7 mins by a Thai supplier
+ - [UV Care](https://www.bangkokbiznews.com/pr/detail/51946) - devices to kill virus in 7 mins by a Thai supplier
 
 ## Global
  - <https://www.worldometers.info/coronavirus/> - Dashbaord
