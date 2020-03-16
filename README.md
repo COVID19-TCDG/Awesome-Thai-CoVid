@@ -15,6 +15,7 @@ https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
 ### Regional Dashbaord
  - [th-stat](http://th-stat.com/) - Comprehensive stats for active cases **Recommend**
  - [covid tracker](https://covidtracker.5lab.co/) - ground all COVID news with map
+ - [covid dashbaord](https://covid19.workpointnews.com/) -  information about confirm numbers of infected persons
 
 ### Hospital
  - [Hospital/Lab For Testing](https://map.nostramap.com/NostraMap/?layer/covid_19) - A list of hosipital for testing only for those in center metro area
