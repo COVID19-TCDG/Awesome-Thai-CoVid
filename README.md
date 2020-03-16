@@ -3,8 +3,10 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 
 ## Application & Chatbot
 
-### Realtime Data Provider
- - [Covid-19 ป้องกันได้](https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
+### Realtime Regional Dashbaord & Stats
+ - [th-stat](http://th-stat.com/) - Comprehensive stats for active cases **Recommend**
+ - [covidtracker](https://covidtracker.5lab.co/) - ground all COVID news with map
+ - [workpoint COVID19](https://covid19.workpointnews.com/) -  inform about total confirm numbers of infected persons, as well as global pandemic data
 
 ### Telemedicine
  - [Chiiwii](https://www.chiiwiidoctor.com/) - Use with code `pedxc19` to gain free chat with doctor
@@ -15,33 +17,30 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [Rajavithi's Risk Assessment](http://rajavithi.emergencymed.net/corona/index.html) - 14 days before , Did you have any risk below ?
  - [สบายดีบอต](http://line.me/R/ti/p/@sabaideebot) - LINE chatbot to keep records of symtoms, creator also share anonymous data of users publicly
 
+### Resources Finder
+ - [Mask Map by futureforwardparty](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - a crowdsourcing map to search for mask.
+ - [Mask Map by Eggyo](https://maskmapthai.web.app/) - Another crowdsourcing
+
+
+### Notification Feed
+ - [Covid-19 ป้องกันได้](https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
+
 ### Others
  - [CITIZENinfo](https://www.dga.or.th/th/profile/2133/) - DPA Find hospital for covid test nationwide
  - [Sydekick](https://www.facebook.com/depathai/posts/2773242432754321) - DEPA mandatory App for those who travel from risk countries
 
 
 ## Data
-### Regional Dashbaord
- - [th-stat](http://th-stat.com/) - Comprehensive stats for active cases **Recommend**
- - [covidtracker](https://covidtracker.5lab.co/) - ground all COVID news with map
- - [workpoint COVID19](https://covid19.workpointnews.com/) -  inform about total confirm numbers of infected persons, as well as global pandemic data
 
 ### Hospital
- - [Hospital/Lab For Testing](https://map.nostramap.com/NostraMap/?layer/covid_19) - A list of hosipital for testing only for those in center metro area
-
-
-### Crowdsourcing
- - [Where to buy Mask](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - a crowdsourcing map to search for mask.
+ - [Bangkok Hospital](https://map.nostramap.com/NostraMap/?layer/covid_19) - A list of hosipital for testing only for those in center metro area
 
 
 ## Unstructure Data
 ### Official
- - <https://ddc.moph.go.th/viralpneumonia/>
- - <http://www.boe.moph.go.th/boedb/surdata/disease.php?ds=31>
+ - [DDC Official Site](https://ddc.moph.go.th/viralpneumonia/)
+ - [MOPH Pneumonia Stats](http://www.boe.moph.go.th/boedb/surdata/disease.php?ds=31)
 
-## Semi-Closed Data
-### Official
- - [PeeNoi Whereabout Udon Thani](https://www.facebook.com/insideudon/posts/2676364612490379) - Thai DDC hold data of Thai labours from korea.
 
 ## As-A-Services
  - [Longdo Map](https://www.facebook.com/longdocom/posts/10157469328938052) - Giveaway free API use for covid19 purpose
@@ -53,12 +52,12 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [UV Care](https://www.bangkokbiznews.com/pr/detail/51946) - devices to kill virus in 7 mins by a Thai supplier
 
 ## Global
- - <https://www.worldometers.info/coronavirus/> - Dashbaord
- - <https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0> - China Regional Dashboard
- - <https://nextstrain.org/ncov> - Realtime mutation
+ - [Worldometers](https://www.worldometers.info/coronavirus/) - World Best Dashbaord
+ - [nCov Mutation](https://nextstrain.org/ncov) - Realtime mutation
 
 ### Nation
  - [Network Graph Visualization](https://co.vid19.sg/cases?fbclid=IwAR1xuNgJJ1XqLAp-8MdHODE-mydUFrMq3mD8QVPitdUJlALJwoSqiISO518) - a graph data for cases and their locations relationship
+ - [China Dashboard](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) - China Regional Dashboard
 
 ## Resources
 ### Documentation
