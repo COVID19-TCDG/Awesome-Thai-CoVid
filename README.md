@@ -4,8 +4,8 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 ## Application & Chatbot
 
 ### Realtime Regional Dashbaord & Stats
- - [th-stat](http://th-stat.com/) - Comprehensive stats for active cases **Recommend**
  - [covidtracker](https://covidtracker.5lab.co/) - ground all COVID news with map
+ - [th-stat](http://th-stat.com/) - Comprehensive stats for active cases
  - [workpoint COVID19](https://covid19.workpointnews.com/) -  inform about total confirm numbers of infected persons, as well as global pandemic data
 
 ### Telemedicine
@@ -57,7 +57,7 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 
 ### Nation
  - [Network Graph Visualization](https://co.vid19.sg/cases?fbclid=IwAR1xuNgJJ1XqLAp-8MdHODE-mydUFrMq3mD8QVPitdUJlALJwoSqiISO518) - a graph data for cases and their locations relationship
- - [China Dashboard](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) - China Regional Dashboard
+ - [China](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) - China Regional Dashboard
 
 ## Resources
 ### Documentation
