@@ -18,8 +18,8 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [สบายดีบอต](http://line.me/R/ti/p/@sabaideebot) - LINE chatbot to keep records of symtoms, creator also share anonymous data of users publicly
 
 ### Resources Finder
- - [Mask Map by futureforwardparty](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - a crowdsourcing map to search for mask.
- - [Mask Map by Eggyo](https://maskmapthai.web.app/) - Another crowdsourcing
+ - [Mask Map by futureforwardparty](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - a crowdsourcing map to search for masks and disinfectants.
+ - [Mask Map by Eggyo](https://maskmapthai.web.app/) - Another novel crowdsourcing
 
 
 ### Notification Feed
