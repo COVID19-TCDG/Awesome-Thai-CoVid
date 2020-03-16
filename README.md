@@ -2,12 +2,21 @@
 A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/groups/192150165377624)
 
 ## Application & Chatbot
- - [CITIZENinfo](https://www.dga.or.th/th/profile/2133/) - DPA Find hospital for covid test nationwide
- - [Covid Bot](https://m.me/covid19bot) - Facebook chatbot for citizen to assert risk with ease.
- - [สบายดีบอต](http://line.me/R/ti/p/@sabaideebot) - LINE chatbot to keep records of symtoms, creator also share anonymous data of users publicly
+
+### Realtime Data Provider
+ - [Covid-19 ป้องกันได้](https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
+
+### Telemedicine
  - [Chiiwii](https://www.chiiwiidoctor.com/) - Use with code `pedxc19` to gain free chat with doctor
- - [Covid-19 ป้องกันได้](
-https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
+
+
+### Risk Assessment & Symptoms Tracker
+ - [Covid Bot](https://m.me/covid19bot) - Facebook chatbot for citizen to assert risk with ease.
+ - [Rajavithi's Risk Assessment](http://rajavithi.emergencymed.net/corona/index.html) - 14 days before , Did you have any risk below ?
+ - [สบายดีบอต](http://line.me/R/ti/p/@sabaideebot) - LINE chatbot to keep records of symtoms, creator also share anonymous data of users publicly
+
+### Others
+ - [CITIZENinfo](https://www.dga.or.th/th/profile/2133/) - DPA Find hospital for covid test nationwide
  - [Sydekick](https://www.facebook.com/depathai/posts/2773242432754321) - DEPA mandatory App for those who travel from risk countries
 
 
@@ -19,6 +28,7 @@ https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
 
 ### Hospital
  - [Hospital/Lab For Testing](https://map.nostramap.com/NostraMap/?layer/covid_19) - A list of hosipital for testing only for those in center metro area
+
 
 ### Crowdsourcing
  - [Where to buy Mask](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - a crowdsourcing map to search for mask.
