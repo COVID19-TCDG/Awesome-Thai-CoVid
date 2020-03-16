@@ -19,6 +19,7 @@ https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
 
 ### Hospital
  - [Hospital/Lab For Testing](https://map.nostramap.com/NostraMap/?layer/covid_19) - A list of hosipital for testing only for those in center metro area
+ - [RISK ASSESSMENT FORM BEFORE HOSPITAL VISIT FOR COVID-19 INFECTION](http://rajavithi.emergencymed.net/corona/index.html) - 14 days before , Did you have any risk below ?
 
 ### Crowdsourcing
  - [Where to buy Mask](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - a crowdsourcing map to search for mask.
