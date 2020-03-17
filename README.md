@@ -32,8 +32,7 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 
 ## Data
 
-### Hospital
- - [Bangkok Hospital](https://map.nostramap.com/NostraMap/?layer/covid_19) - A list of hosipital for testing only for those in center metro area
+ - [Nationwide Hospital/Service Point](https://data.go.th/dataset/citizeninfo_location_mar2563) - lat/long data location in csv
 
 
 ## Unstructure Data
