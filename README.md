@@ -50,6 +50,7 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 
 ## Hardwares
  - [UV Care](https://www.bangkokbiznews.com/pr/detail/51946) - devices to kill virus in 7 mins by a Thai supplier
+ - [Test Kit Knowhow](https://www.isranews.org/article/isranews-news/86497-news-9.html?fbclid=IwAR2FbMwEdN0P3MOvfFO5pN2odJxXooNBiPC2XsuPPOwoVM0TfxnBMXPoiC8) - VISTEC-PTT Successfully research a test kit.
 
 ## Global
  - [Worldometers](https://www.worldometers.info/coronavirus/) - World Best Dashbaord
