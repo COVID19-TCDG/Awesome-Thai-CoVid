@@ -27,7 +27,8 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [Covid-19 ป้องกันได้](https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
 
 ### Others
- - [CITIZENinfo](https://www.dga.or.th/th/profile/2133/) - DPA Find hospital for covid test nationwide
+ - [THAICOVID](https://www.thaicovid.co/) - A meta website contains curated websites for covid.
+ - [CITIZENinfo](https://www.dga.or.th/th/profile/2133/) - DPA Find hospital for covid test nationwide.
  - [Sydekick](https://www.facebook.com/depathai/posts/2773242432754321) - DEPA mandatory App for those who travel from risk countries
 
 
