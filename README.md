@@ -33,9 +33,7 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 
 
 ## Data
-
- - [Nationwide Hospital/Service Point](https://data.go.th/dataset/citizeninfo_location_mar2563) - lat/long data location in csv
-
+<See Here <https://github.com/COVID19-TCDG/datasets>>
 
 ## Unstructure Data
 ### Official
