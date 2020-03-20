@@ -13,6 +13,7 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [covidtracker](https://covidtracker.5lab.co/) - ground all COVID news with map
  - [workpoint COVID19](https://covid19.workpointnews.com/) -  inform about total confirm numbers of infected persons, as well as global pandemic data
  - [th-stat](http://th-stat.com/) - stats for active cases
+ - [depa](https://thaifightcovid.depa.or.th/index.php) - All in one dashboard from gorvernment.
  - [nanaa](http://nanaaa.net/covidmapth) - a provincal map of cases
  - [townhall](https://townhall-th.web.app/covid-19/cases/) - an animated cases graph
 
