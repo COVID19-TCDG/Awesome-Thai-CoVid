@@ -1,6 +1,12 @@
 # Awesome-Thai-CoVid
 A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/groups/192150165377624)
 
+# วิธีเพิ่มข้อมูล แปลภาษา แก้ไข เสนอความเห็น
+1. fork แก้ไขไฟล์ แล้ว pull request
+2. สร้าง issue ที่ github
+3. ติดต่อที่ tcdg@nutchanon.org
+
+
 ## Application & Chatbot
 
 ### Realtime Regional Dashbaord & Stats
@@ -72,3 +78,6 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 ### Documentation
  - [Phase II and Phase III Plan](https://drive.google.com/file/d/1FfaJACEDZXdO9yCSQa4qqKoE-I2Yuvbg/view?fbclid=IwAR09us3yzZM0og9_fWnsiTwFkHnqjIHgSZJO_LaJQ1VmKkxwqLlu8ky7cYI) - Overview of tools
  - [Covid-19 Models and Tests](https://docs.google.com/presentation/d/11wHl_j0zenQj8lI4mGFcM15C0VmE8xrFnvhZKaAe10M/mobilepresent?slide=id.g813ffb90bc_7_4&fbclid=IwAR21MNfVZnaG6woOAuGdzJGxgSFZUoQQbNipqoRtIZmqAiz-VAzJuaJi59s) - overview of test methood and their comparison
+ 
+ > ใครก็ตามที่มี API, database, datasets หรือต้องการจะ opensource โค้ด ที่เป็นประโยชน์ต่อสถานการณ์สามารถติดต่อผมได้ tcdg@nutchanon.org
+ 
