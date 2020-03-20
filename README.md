@@ -1,7 +1,7 @@
 # Awesome-Thai-CoVid
 A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/groups/192150165377624)
 
-# วิธีเพิ่มข้อมูล แปลภาษา แก้ไข เสนอความเห็น
+## วิธีเพิ่มข้อมูล แปลภาษา แก้ไข เสนอความเห็น
 1. fork แก้ไขไฟล์ แล้ว pull request
 2. สร้าง issue ที่ github
 3. ติดต่อที่ tcdg@nutchanon.org
