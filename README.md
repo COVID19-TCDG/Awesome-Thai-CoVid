@@ -7,6 +7,8 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [covidtracker](https://covidtracker.5lab.co/) - ground all COVID news with map
  - [workpoint COVID19](https://covid19.workpointnews.com/) -  inform about total confirm numbers of infected persons, as well as global pandemic data
  - [th-stat](http://th-stat.com/) - stats for active cases
+ - [nanaa](http://nanaaa.net/covidmapth) - a provincal map of cases
+ - [townhall](https://townhall-th.web.app/covid-19/cases/) - an animated cases graph
 
 ### Telemedicine
  - [Chiiwii](https://www.chiiwiidoctor.com/) - Use with code `pedxc19` to gain free chat with doctor
@@ -16,15 +18,20 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [Covid Bot](https://m.me/covid19bot) - Facebook chatbot for citizen to assert risk with ease.
  - [Rajavithi's Risk Assessment](http://rajavithi.emergencymed.net/corona/index.html) - 14 days before , Did you have any risk below ?
  - [สบายดีบอต](http://line.me/R/ti/p/@sabaideebot) - LINE chatbot to keep records of symtoms, creator also share anonymous data of users publicly
+ - [เป็ดไทยสู้ภัย](http://covid19.thaitechstartup.org/) - A webapp for risk assessment
 
 ### Resources Finder
  - [Mask Map by Eggyo](https://maskmapthai.web.app/) - Another novel crowdsourcing
- - [Mask Map by futureforwardparty](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - a crowdsourcing map to search for masks and disinfectants.
+ - [Map and Gel](https://townhall-th.web.app/covid-19/crowdsource) - Another crowdsourcing with Gel
+ - [Mask Map by futureforwardparty](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - the first crowdsourcing map to search for masks and disinfectants.
 
 
 
 ### Notification Feed
  - [Covid-19 ป้องกันได้](https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
+
+### Hospital
+ - [Bed Manager COVID19](http://cov19bkkrm.dms.go.th/covid/) - For Hospital to report status. [ref](https://www.facebook.com/groups/192150165377624/permalink/198792391380068/)
 
 ### Others
  - [THAICOVID](https://www.thaicovid.co/) - A meta website contains curated websites for covid.
@@ -54,10 +61,12 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 ## Global
  - [Worldometers](https://www.worldometers.info/coronavirus/) - World Best Dashbaord
  - [nCov Mutation](https://nextstrain.org/ncov) - Realtime mutation
-
+ - [Open-Source-COVID-19](http://open-source-covid-19.weileizeng.com/) - A global collection of Open Source projects during COVID-19
 ### Nation
+ - [Covid-19 in Malaysia](https://newslab.malaysiakini.com/covid-19/en) - A center point of data for malaysia people
  - [Network Graph Visualization](https://co.vid19.sg/cases?fbclid=IwAR1xuNgJJ1XqLAp-8MdHODE-mydUFrMq3mD8QVPitdUJlALJwoSqiISO518) - a graph data for cases and their locations relationship
  - [China](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) - China Regional Dashboard
+ 
 
 ## Resources
 ### Documentation
