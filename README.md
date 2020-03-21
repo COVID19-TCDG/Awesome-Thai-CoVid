@@ -16,6 +16,7 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [depa](https://thaifightcovid.depa.or.th/index.php) - All in one dashboard from gorvernment.
  - [nanaa](http://nanaaa.net/covidmapth) - a provincal map of cases
  - [townhall](https://townhall-th.web.app/covid-19/cases/) - an animated cases graph
+ - [covid19th](https://covid19th.com/) - Dashboard COVID-19 (Thai Language)
 
 ### Telemedicine
  - [Chiiwii](https://www.chiiwiidoctor.com/) - Use with code `pedxc19` to gain free chat with doctor
