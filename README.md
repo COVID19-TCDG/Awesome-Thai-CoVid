@@ -57,6 +57,8 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 
 
 ## As-A-Services
+ - [esri Thailand](https://www.esrith.com/covid19) - Get maps, datasets, applications, and more for coronavirus
+disease 2019 (COVID-19).
  - [Longdo Map](https://www.facebook.com/longdocom/posts/10157469328938052) - Giveaway free API use for covid19 purpose
 
 ## Medical Services
