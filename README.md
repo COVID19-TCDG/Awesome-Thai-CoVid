@@ -11,8 +11,9 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 
 ### Realtime Regional Dashbaord & Stats
  - [covidtracker](https://covidtracker.5lab.co/) - ground all COVID news with map
- - [workpoint COVID19](https://covid19.workpointnews.com/) -  inform about total confirm numbers of infected persons, as well as global pandemic data
+ - [MOPH Official Dashboard](https://mophgis.maps.arcgis.com/apps/opsdashboard/index.html#/210413ebb5ff49bb8914808af6473322%20) - The official dashboard that has the most latest data, and beautiful provincal map by esri.
  - [th-stat](http://th-stat.com/) - stats for active cases
+ - [workpoint COVID19](https://covid19.workpointnews.com/) -  inform about total confirm numbers of infected persons, as well as global pandemic data
  - [depa](https://thaifightcovid.depa.or.th/index.php) - All in one dashboard from gorvernment.
  - [nanaa](http://nanaaa.net/covidmapth) - a provincal map of cases
  - [townhall](https://townhall-th.web.app/covid-19/cases/) - an animated cases graph
@@ -76,12 +77,11 @@ disease 2019 (COVID-19).
  - [Covid-19 in Malaysia](https://newslab.malaysiakini.com/covid-19/en) - A center point of data for malaysia people
  - [Network Graph Visualization](https://co.vid19.sg/cases?fbclid=IwAR1xuNgJJ1XqLAp-8MdHODE-mydUFrMq3mD8QVPitdUJlALJwoSqiISO518) - a graph data for cases and their locations relationship
  - [China](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) - China Regional Dashboard
- 
+
 
 ## Resources
 ### Documentation
  - [Phase II and Phase III Plan](https://drive.google.com/file/d/1FfaJACEDZXdO9yCSQa4qqKoE-I2Yuvbg/view?fbclid=IwAR09us3yzZM0og9_fWnsiTwFkHnqjIHgSZJO_LaJQ1VmKkxwqLlu8ky7cYI) - Overview of tools
  - [Covid-19 Models and Tests](https://docs.google.com/presentation/d/11wHl_j0zenQj8lI4mGFcM15C0VmE8xrFnvhZKaAe10M/mobilepresent?slide=id.g813ffb90bc_7_4&fbclid=IwAR21MNfVZnaG6woOAuGdzJGxgSFZUoQQbNipqoRtIZmqAiz-VAzJuaJi59s) - overview of test methood and their comparison
- 
+
  > ใครก็ตามที่มี API, database, datasets หรือต้องการจะ opensource โค้ด ที่เป็นประโยชน์ต่อสถานการณ์สามารถติดต่อผมได้ tcdg@nutchanon.org
- 
