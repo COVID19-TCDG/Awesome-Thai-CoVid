@@ -46,9 +46,8 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [CITIZENinfo](https://www.dga.or.th/th/profile/2133/) - DPA Find hospital for covid test nationwide.
  - [Sydekick](https://www.facebook.com/depathai/posts/2773242432754321) - DEPA mandatory App for those who travel from risk countries
 
-
-## Data
-<See Here <https://github.com/COVID19-TCDG/datasets>>
+### Datasets
+ - [COVID19-TCDG/datasets](https://github.com/COVID19-TCDG/datasets) - Datasets by COVID19-TCDG
 
 ## Unstructure Data
 ### Official
