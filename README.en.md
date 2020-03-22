@@ -54,30 +54,29 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [DDC Official Site](https://ddc.moph.go.th/viralpneumonia/)
  - [MOPH Pneumonia Stats](http://www.boe.moph.go.th/boedb/surdata/disease.php?ds=31)
 
-
-## As-A-Services
+### As-A-Services
  - [esri Thailand](https://www.esrith.com/covid19) - Get maps, datasets, applications, and more for coronavirus
 disease 2019 (COVID-19).
  - [Longdo Map](https://www.facebook.com/longdocom/posts/10157469328938052) - Giveaway free API use for covid19 purpose
 
-## Medical Services
+### Medical Services
  - [DriveThru by Ramkhamhaeng](https://www.ram-hosp.co.th/news_detail/499) - a 5-min test, costs 6500 Baht per test
 
-## Hardwares
+### Hardwares
  - [UV Care](https://www.bangkokbiznews.com/pr/detail/51946) - devices to kill virus in 7 mins by a Thai supplier
  - [Test Kit Knowhow](https://www.isranews.org/article/isranews-news/86497-news-9.html?fbclid=IwAR2FbMwEdN0P3MOvfFO5pN2odJxXooNBiPC2XsuPPOwoVM0TfxnBMXPoiC8) - VISTEC-PTT Successfully research a test kit.
 
-## Global
+### Global
  - [Worldometers](https://www.worldometers.info/coronavirus/) - World Best Dashbaord
  - [nCov Mutation](https://nextstrain.org/ncov) - Realtime mutation
  - [Open-Source-COVID-19](http://open-source-covid-19.weileizeng.com/) - A global collection of Open Source projects during COVID-19
+
 ### Nation
  - [Covid-19 in Malaysia](https://newslab.malaysiakini.com/covid-19/en) - A center point of data for malaysia people
  - [Network Graph Visualization](https://co.vid19.sg/cases?fbclid=IwAR1xuNgJJ1XqLAp-8MdHODE-mydUFrMq3mD8QVPitdUJlALJwoSqiISO518) - a graph data for cases and their locations relationship
  - [China](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) - China Regional Dashboard
 
-
-## Resources
+## Other Resources
 ### Documentation
  - [Phase II and Phase III Plan](https://drive.google.com/file/d/1FfaJACEDZXdO9yCSQa4qqKoE-I2Yuvbg/view?fbclid=IwAR09us3yzZM0og9_fWnsiTwFkHnqjIHgSZJO_LaJQ1VmKkxwqLlu8ky7cYI) - Overview of tools
  - [Covid-19 Models and Tests](https://docs.google.com/presentation/d/11wHl_j0zenQj8lI4mGFcM15C0VmE8xrFnvhZKaAe10M/mobilepresent?slide=id.g813ffb90bc_7_4&fbclid=IwAR21MNfVZnaG6woOAuGdzJGxgSFZUoQQbNipqoRtIZmqAiz-VAzJuaJi59s) - overview of test methood and their comparison
