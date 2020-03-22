@@ -1,6 +1,8 @@
 # Awesome-Thai-CoVid
 รวมลิงค์สำหรับป้องกันโควิต-19 [#TCDG](https://www.facebook.com/groups/192150165377624)
 
+*Read this in other languages: [English](README.en.md)*
+
 ## วิธีเพิ่มข้อมูล แปลภาษา แก้ไข เสนอความเห็น
 1. fork แก้ไขไฟล์ แล้ว pull request
 2. สร้าง issue ที่ github
