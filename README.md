@@ -46,9 +46,8 @@
  - [หาพิกัดโรงพยาบาลรับตรวจโควิท ผ่านแอป CITIZENinfo](https://www.dga.or.th/th/profile/2133/) - CITIZENinfo โดยสำนักงานพัฒนารัฐบาลดิจิทัล
  - [Sydekick](https://www.facebook.com/depathai/posts/2773242432754321) - แอปสำหรับผู้เดินทางมาจากกลุ่มประเทศเสี่ยงโควิด โดยสำนักงานส่งเสริมเศรษฐกิจดิจิทัล (depa)
 
-
-## ข้อมูล
-<See Here <https://github.com/COVID19-TCDG/datasets>>
+## ชุดข้อมูล
+ - [COVID19-TCDG/datasets](https://github.com/COVID19-TCDG/datasets) - ชุดข้อมูลโดย COVID19-TCDG
 
 ## ข้อมูลอื่นๆ
 ### เว็บไซต์ทางราชการ
