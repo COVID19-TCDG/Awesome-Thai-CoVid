@@ -2,8 +2,8 @@
 A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/groups/192150165377624)
 
 ## How to add more links, translation, edit/update, or suggestions.
-1. fork the repo, then create pull request
-2. Create an issue in github
+1. fork the repo, then create pull request, or
+2. Create an issue in github, or
 3. Email to tcdg@nutchanon.org
 
 ## Application & Chatbot

@@ -4,9 +4,9 @@
 *Read this in other languages: [English](README.en.md)*
 
 ## วิธีเพิ่มข้อมูล แปลภาษา แก้ไข เสนอความเห็น
-1. fork แก้ไขไฟล์ แล้ว pull request
-2. สร้าง issue ที่ github
-3. ติดต่อที่ tcdg@nutchanon.org
+1. Fork repo, แก้ไขไฟล์ แล้ว pull request หรือ..
+2. สร้าง issue ที่ github หรือ..
+3. อีเมลมาที่ tcdg@nutchanon.org
 
 ## แอปพลิเคชันและแชทบอท
 
