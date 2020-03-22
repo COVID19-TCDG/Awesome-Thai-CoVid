@@ -12,7 +12,7 @@
 
 ### หน้าแดชบอร์ด สรุปข้อมูลติดตามสถานการณ์แบบเรียวไทม์ และสถิติ
  - [COVID Tracker](https://covidtracker.5lab.co/) - ข่าวโควิดพร้อมแผนที่
- - [แดชบอร์ดกระทรวงสาธารณสุข](https://mophgis.maps.arcgis.com/apps/opsdashboard/index.html#/210413ebb5ff49bb8914808af6473322%20) - แดชบอร์ดอย่างเป็นทางการพร้อมข้อมูลล่าสุดโดย esri.
+ - [แดชบอร์ดกระทรวงสาธารณสุข](https://mophgis.maps.arcgis.com/apps/opsdashboard/index.html#/210413ebb5ff49bb8914808af6473322%20) - แดชบอร์ดอย่างเป็นทางการพร้อมข้อมูลล่าสุดโดย esri
  - [th-stat](http://th-stat.com/) - สถิติผู้ป่วย (Active cases)
  - [เวิร์คพอยท์ COVID19](https://covid19.workpointnews.com/) - ให้ข้อมูลเกี่ยวกับจำนวนผู้ป่วยและข้อมูลทั่วโลก
  - [depa](https://thaifightcovid.depa.or.th/index.php) - แดชบอร์ดออลอินวันจากรัฐบาล
@@ -56,12 +56,11 @@
  - [กระทรวงสาธารณสุข](http://www.boe.moph.go.th/boedb/surdata/disease.php?ds=31)
 
 ## As-A-Services
- - [esri ประเทศไทย](https://www.esrith.com/covid19) - Get maps, datasets, applications, and more for coronavirus
-disease 2019 (COVID-19).
- - [แผนที่ Longdo](https://www.facebook.com/longdocom/posts/10157469328938052) - Giveaway free API use for covid19 purpose
+ - [esri ประเทศไทย](https://www.esrith.com/covid19) - แผนที่ ชุดข้อมูล แอปและอื่นๆเกี่ยวกับโควิด-19
+ - [แผนที่ Longdo](https://www.facebook.com/longdocom/posts/10157469328938052) - ฟรี API สำหรับสถานการณ์โควิท-19
 
 ## บริการทางการแพทย์
- - [ไดรฟทรู ตรวจเชื้อโควิด-19 โดยรพ.รามคำแหง](https://www.ram-hosp.co.th/news_detail/499) - a 5-min test, costs 6500 Baht per test
+ - [ไดรฟทรู ตรวจเชื้อโควิด-19 โดยรพ.รามคำแหง](https://www.ram-hosp.co.th/news_detail/499) - ตรวจเชื้อโควิดใน 5 นาที ราคา 6,500 บาท
 
 ## ฮาร์ดแวร์
  - [UV Care รังสียูวีซีกำจัดเชื้อโรค](https://www.bangkokbiznews.com/pr/detail/51946) - ฆ่าเชื้อโรคใน 7 นาที
@@ -72,9 +71,9 @@ disease 2019 (COVID-19).
  - [nCov Mutation](https://nextstrain.org/ncov) - Genomic epidemiology of novel coronavirus
  - [Open-Source-COVID-19](http://open-source-covid-19.weileizeng.com/) - โปรเจคโอเพ่นซอร์สต่างๆทั่วโลก
 ### ข้อมูลรายประเทศ
- - [โควิท-19 ในมาเลเซีย](https://newslab.malaysiakini.com/covid-19/en) - A center point of data for malaysia people
- - [กราฟการแพร่กระจายโควิท-19 ในสิงค์โปร์](https://co.vid19.sg/cases?fbclid=IwAR1xuNgJJ1XqLAp-8MdHODE-mydUFrMq3mD8QVPitdUJlALJwoSqiISO518) - a graph data for cases and their locations relationship
- - [โควิท-19 ในจีน](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) - China Regional Dashboard
+ - [โควิท-19 ในมาเลเซีย](https://newslab.malaysiakini.com/covid-19/en) - ศูนย์รวมข้อมูลสำหรับชาวมาเลเซีย
+ - [กราฟการแพร่กระจายโควิท-19 ในสิงค์โปร์](https://co.vid19.sg/cases?fbclid=IwAR1xuNgJJ1XqLAp-8MdHODE-mydUFrMq3mD8QVPitdUJlALJwoSqiISO518) - กราฟการแพร่กระจายโควิท-19 ในสิงค์โปร์ แสดงแต่ละเคสพร้อมความสัมพันธ์
+ - [โควิท-19 ในจีน](https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=singlemessage&isappinstalled=0) - แดชบอร์ดในประเทศจีน
 
 
 ## Resources
