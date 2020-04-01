@@ -25,15 +25,14 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
 ### Risk Assessment & Symptoms Tracker
  - [Covid Bot](https://m.me/covid19bot) - Facebook chatbot for citizen to assert risk with ease.
  - [Rajavithi's Risk Assessment](http://rajavithi.emergencymed.net/corona/index.html) - 14 days before , Did you have any risk below ?
- - [สบายดีบอต](http://line.me/R/ti/p/@sabaideebot) - LINE chatbot to keep records of symtoms, creator also share anonymous data of users publicly
- - [เป็ดไทยสู้ภัย](http://covid19.thaitechstartup.org/) - A webapp for risk assessment
+ - [Sabaidee Bot](http://line.me/R/ti/p/@sabaideebot) - LINE chatbot to keep records of symtoms, creator also share anonymous data of users publicly
+ - [Risk Assessment Form for Covid-19](http://covid19.thaitechstartup.org/) - A webapp for risk assessment
+ - [Jubjai Fight Covid](https://www.facebook.com/JubjaiFightCovid/) - Mental health chatbot for stress assessment and self-help emotional regulation.
 
 ### Resources Finder
  - [Mask Map by Eggyo](https://maskmapthai.web.app/) - Another novel crowdsourcing
  - [Map and Gel](https://townhall-th.web.app/covid-19/crowdsource) - Another crowdsourcing with Gel
  - [Mask Map by futureforwardparty](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - the first crowdsourcing map to search for masks and disinfectants.
-
-
 
 ### Notification Feed
  - [Covid-19 ป้องกันได้](https://line.me/R/ti/p/%40797zdgoh) - DDC Official Line Communication Channel
