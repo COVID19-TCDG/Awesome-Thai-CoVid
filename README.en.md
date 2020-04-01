@@ -27,7 +27,7 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [Rajavithi's Risk Assessment](http://rajavithi.emergencymed.net/corona/index.html) - 14 days before , Did you have any risk below ?
  - [Sabaidee Bot](http://line.me/R/ti/p/@sabaideebot) - LINE chatbot to keep records of symtoms, creator also share anonymous data of users publicly
  - [Risk Assessment Form for Covid-19](http://covid19.thaitechstartup.org/) - A webapp for risk assessment
- - [Jubjai Fight Covid](https://www.facebook.com/JubjaiFightCovid/) - Chatbot for stress assessment and basic psychological self care.
+ - [Jubjai Fight Covid](https://www.facebook.com/JubjaiFightCovid/) - Mental health chatbot for stress assessment and self-help emotional regulation.
 
 ### Resources Finder
  - [Mask Map by Eggyo](https://maskmapthai.web.app/) - Another novel crowdsourcing
