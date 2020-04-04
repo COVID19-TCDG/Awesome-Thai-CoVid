@@ -19,6 +19,7 @@
  - [nanaa](http://nanaaa.net/covidmapth) - ผู้ป่วยตามแต่ละจังหวัด
  - [townhall](https://townhall-th.web.app/covid-19/cases/) - ผู้ป่วยแสดงแบบกราฟ
  - [covid19th](https://covid19th.com/) - แดชบอร์ดภาษาไทย
+ - [covid-19 cnx](https://covid-19-cnx.web.app/) - ระบบ Monitoring โรค Covid-19 ในจังหวัดเชียงใหม่
 
 ### ระบบการแพทย์ทางไกล (Telemedicine)
  - [Chiiwii](https://www.chiiwiidoctor.com/) - ใช้โค้ด `pedxc19` เพื่อคุยกับหมอฟรี

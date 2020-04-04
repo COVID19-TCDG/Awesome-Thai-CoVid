@@ -17,7 +17,7 @@ A curated list for Thais against COVID-19 [#TCDG](https://www.facebook.com/group
  - [nanaa](http://nanaaa.net/covidmapth) - a provincal map of cases
  - [townhall](https://townhall-th.web.app/covid-19/cases/) - an animated cases graph
  - [covid19th](https://covid19th.com/) - Dashboard COVID-19 (Thai Language)
-
+ - [covid-19 cnx](https://covid-19-cnx.web.app/) -  Monitoring System for Chiang Mai
 ### Telemedicine
  - [Chiiwii](https://www.chiiwiidoctor.com/) - Use with code `pedxc19` to gain free chat with doctor
 
