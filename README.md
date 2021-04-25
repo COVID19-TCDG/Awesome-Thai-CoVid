@@ -11,30 +11,16 @@
 ## แอปพลิเคชันและแชทบอท
 
 ### หน้าแดชบอร์ด สรุปข้อมูลติดตามสถานการณ์แบบเรียวไทม์ และสถิติ
- - [COVID Tracker](https://covidtracker.5lab.co/) - ข่าวโควิดพร้อมแผนที่
- - [แดชบอร์ดกระทรวงสาธารณสุข](https://mophgis.maps.arcgis.com/apps/opsdashboard/index.html#/210413ebb5ff49bb8914808af6473322%20) - แดชบอร์ดอย่างเป็นทางการพร้อมข้อมูลล่าสุดโดย esri
- - [th-stat](http://th-stat.com/) - สถิติผู้ป่วย (Active cases)
  - [เวิร์คพอยท์ COVID19](https://covid19.workpointnews.com/) - ให้ข้อมูลเกี่ยวกับจำนวนผู้ป่วยและข้อมูลทั่วโลก
- - [depa](https://thaifightcovid.depa.or.th/index.php) - แดชบอร์ดออลอินวันจากรัฐบาล
- - [nanaa](http://nanaaa.net/covidmapth) - ผู้ป่วยตามแต่ละจังหวัด
- - [townhall](https://townhall-th.web.app/covid-19/cases/) - ผู้ป่วยแสดงแบบกราฟ
- - [covid19th](https://covid19th.com/) - แดชบอร์ดภาษาไทย
- - [covid-19 cnx](https://covid-19-cnx.web.app/) - ระบบ Monitoring โรค Covid-19 ในจังหวัดเชียงใหม่
+
 
 ### ระบบการแพทย์ทางไกล (Telemedicine)
  - [Chiiwii](https://www.chiiwiidoctor.com/) - ใช้โค้ด `pedxc19` เพื่อคุยกับหมอฟรี
 
 ### ประเมินความเสี่ยง และติดตามอาการ
- - [Covid Bot](https://m.me/covid19bot) - แชทบอทเฟสบุ๊คสำหรับประเมินความเสี่ยงอย่างง่าย ๆ
  - [ประเมินความเสี่ยงโดยโรงพยาบาลราชวิถี](http://rajavithi.emergencymed.net/corona/index.html) - 14 วันก่อน คุณมีความเสี่ยงตามนี้หรือไม่
  - [สบายดีบอต](http://line.me/R/ti/p/@sabaideebot) - แชทบอทไลน์สำหรับบันทึกข้อมูลอาการ (มีการแชร์ข้อมูลสู่สาธารณะโดยไม่ระบุตัวตน)
- - [เป็ดไทยสู้ภัย](http://covid19.thaitechstartup.org/) - เว็บแอปประเมินความเสี่ยง
  - [จับใจสู้โควิด](https://www.facebook.com/JubjaiFightCovid/) - แชทบอทประเมินความเครียดเพื่อการดูแลสุขภาพจิตเบื้องต้น
-
-### พิกัดหน้ากากอนามัยและเจลล้างมือ
- - [พิกัดหน้ากากอนามัย by Eggyo](https://maskmapthai.web.app/) - คราวด์ซอร์สซิ่งหาหน้ากากอนามัย
- - [พิกัดหน้ากากอนามัยและเจลล้างมือทั่วประเทศโดย Townhall](https://townhall-th.web.app/covid-19/crowdsource) - คราวด์ซอร์สซิ่งหาหน้ากากอนามัยและเจลล้างมือ
- - [พิกัดหน้ากากอนามัย by futureforwardparty](https://futureforwardparty.org/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81) - คราวด์ซอร์สซิ่งหาหน้ากากอนามัยและเจลล้างมือ
 
 ### ฟีดการแจ้งเตือน
  - [โควิด-19 ป้องกันได้](https://line.me/R/ti/p/%40797zdgoh) - LINE อย่างเป็นทางการของกรมควบคุมโรค
