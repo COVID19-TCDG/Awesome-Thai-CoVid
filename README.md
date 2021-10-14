@@ -67,3 +67,5 @@
 1. Fork repo, แก้ไขไฟล์ แล้ว pull request หรือ..
 2. สร้าง issue ที่ github หรือ..
 
+> ใครสนใจ maintain ต่อทักได้ครับ
+
