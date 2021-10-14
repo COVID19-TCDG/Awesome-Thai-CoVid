@@ -3,14 +3,10 @@
 
 *Read this in other languages: [English](README.en.md)*
 
-## วิธีเพิ่มข้อมูล แปลภาษา แก้ไข เสนอความเห็น
-1. Fork repo, แก้ไขไฟล์ แล้ว pull request หรือ..
-2. สร้าง issue ที่ github หรือ..
-3. อีเมลมาที่ tcdg@nutchanon.org
-
 ## แอปพลิเคชันและแชทบอท
 
 ### หน้าแดชบอร์ด สรุปข้อมูลติดตามสถานการณ์แบบเรียวไทม์ และสถิติ
+ - [Thailand COVID-19 Data](https://github.com/djay/covidthailand) - ครบที่สุด ละเอียดที่สุด เหมาะกับนักพัฒนา เป็นภาษาอังกฤษ
  - [เวิร์คพอยท์ COVID19](https://covid19.workpointnews.com/) - ให้ข้อมูลเกี่ยวกับจำนวนผู้ป่วยและข้อมูลทั่วโลก
 
 
@@ -52,7 +48,7 @@
  - [UV Care รังสียูวีซีกำจัดเชื้อโรค](https://www.bangkokbiznews.com/pr/detail/51946) - ฆ่าเชื้อโรคใน 7 นาที
  - [ข่าวชุดตรวจเชื้อโควิด-19](https://www.isranews.org/article/isranews-news/86497-news-9.html?fbclid=IwAR2FbMwEdN0P3MOvfFO5pN2odJxXooNBiPC2XsuPPOwoVM0TfxnBMXPoiC8) - VISTEC-PTT พัฒนาชุดตรวจเชื้อโควิดสำเร็จ
 
-### ข้อมู​ลทั่วโลก
+### ข้อมูลทั่วโลก
  - [Worldometers](https://www.worldometers.info/coronavirus/) - แดชบอร์ดที่ดีที่สุด
  - [nCov Mutation](https://nextstrain.org/ncov) - Genomic epidemiology of novel coronavirus
  - [Open-Source-COVID-19](http://open-source-covid-19.weileizeng.com/) - โปรเจคโอเพ่นซอร์สต่าง ๆ ทั่วโลก
@@ -67,4 +63,7 @@
  - [แผนการสำหรับเฟส 2 และ 3](https://drive.google.com/file/d/1FfaJACEDZXdO9yCSQa4qqKoE-I2Yuvbg/view?fbclid=IwAR09us3yzZM0og9_fWnsiTwFkHnqjIHgSZJO_LaJQ1VmKkxwqLlu8ky7cYI) - เครื่องมือต่าง ๆ
  - [Covid-19 วิธีทดสอบและโมเดล](https://docs.google.com/presentation/d/11wHl_j0zenQj8lI4mGFcM15C0VmE8xrFnvhZKaAe10M/mobilepresent?slide=id.g813ffb90bc_7_4&fbclid=IwAR21MNfVZnaG6woOAuGdzJGxgSFZUoQQbNipqoRtIZmqAiz-VAzJuaJi59s) - overview of test methood and their comparison (ภาษาอังกฤษ)
 
- > ใครก็ตามที่มี API, database, datasets หรือต้องการจะ opensource โค้ด ที่เป็นประโยชน์ต่อสถานการณ์สามารถติดต่อผมได้ tcdg@nutchanon.org
+## วิธีเพิ่มข้อมูล แปลภาษา แก้ไข เสนอความเห็น
+1. Fork repo, แก้ไขไฟล์ แล้ว pull request หรือ..
+2. สร้าง issue ที่ github หรือ..
+
